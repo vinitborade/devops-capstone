@@ -1,0 +1,8 @@
+.git
+**/.venv
+**/__pycache__
+*.md
+infra/
+helm/
+k8s/
+docker/
